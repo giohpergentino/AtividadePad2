@@ -1,1 +1,1 @@
-# AtividadePad2
+# Atividade Prática de JavaScript - PAD2
